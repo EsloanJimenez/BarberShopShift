@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\API\\BarberShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5FBDF-D0E3-4D4E-B3B0-DC0C9609C0D0}|BarberShop.Infrastructure\\BarberShop.Infrastructure.csproj|d:\\proyectos\\api\\barbershop\\barbershop.infrastructure\\repository\\barberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5FBDF-D0E3-4D4E-B3B0-DC0C9609C0D0}|BarberShop.Infrastructure\\BarberShop.Infrastructure.csproj|solutionrelative:barbershop.infrastructure\\repository\\barberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5FBDF-D0E3-4D4E-B3B0-DC0C9609C0D0}|BarberShop.Infrastructure\\BarberShop.Infrastructure.csproj|d:\\proyectos\\api\\barbershop\\barbershop.infrastructure\\context\\barbershopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5FBDF-D0E3-4D4E-B3B0-DC0C9609C0D0}|BarberShop.Infrastructure\\BarberShop.Infrastructure.csproj|solutionrelative:barbershop.infrastructure\\context\\barbershopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2809832D-FB6C-4117-808A-825AD8DE7609}|BarberShop.API\\BarberShop.API.csproj|d:\\proyectos\\api\\barbershop\\barbershop.api\\controllers\\barbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2809832D-FB6C-4117-808A-825AD8DE7609}|BarberShop.API\\BarberShop.API.csproj|solutionrelative:barbershop.api\\controllers\\barbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2809832D-FB6C-4117-808A-825AD8DE7609}|BarberShop.API\\BarberShop.API.csproj|d:\\proyectos\\api\\barbershop\\barbershop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2809832D-FB6C-4117-808A-825AD8DE7609}|BarberShop.API\\BarberShop.API.csproj|solutionrelative:barbershop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07291B2-2939-4D9C-8209-77B250AA9391}|BarberShop.Domain\\BarberShop.Domain.csproj|d:\\proyectos\\api\\barbershop\\barbershop.domain\\interfaces\\ibarberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07291B2-2939-4D9C-8209-77B250AA9391}|BarberShop.Domain\\BarberShop.Domain.csproj|solutionrelative:barbershop.domain\\interfaces\\ibarberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1001,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarberRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\BarberShop\\BarberShop.Infrastructure\\Repository\\BarberRepository.cs",
+              "RelativeDocumentMoniker": "BarberShop.Infrastructure\\Repository\\BarberRepository.cs",
+              "ToolTip": "D:\\Proyectos\\API\\BarberShop\\BarberShop.Infrastructure\\Repository\\BarberRepository.cs",
+              "RelativeToolTip": "BarberShop.Infrastructure\\Repository\\BarberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:14:35.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarberShopContext.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\BarberShop\\BarberShop.Infrastructure\\Context\\BarberShopContext.cs",
+              "RelativeDocumentMoniker": "BarberShop.Infrastructure\\Context\\BarberShopContext.cs",
+              "ToolTip": "D:\\Proyectos\\API\\BarberShop\\BarberShop.Infrastructure\\Context\\BarberShopContext.cs",
+              "RelativeToolTip": "BarberShop.Infrastructure\\Context\\BarberShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:14:17.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarberController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\BarberShop\\BarberShop.API\\Controllers\\BarberController.cs",
+              "RelativeDocumentMoniker": "BarberShop.API\\Controllers\\BarberController.cs",
+              "ToolTip": "D:\\Proyectos\\API\\BarberShop\\BarberShop.API\\Controllers\\BarberController.cs",
+              "RelativeToolTip": "BarberShop.API\\Controllers\\BarberController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwDQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:52:24.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\BarberShop\\BarberShop.API\\Program.cs",
+              "RelativeDocumentMoniker": "BarberShop.API\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\API\\BarberShop\\BarberShop.API\\Program.cs",
+              "RelativeToolTip": "BarberShop.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:24:45.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1001,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBarberRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\API\\BarberShop\\BarberShop.Domain\\Interfaces\\IBarberRepository.cs",
+              "RelativeDocumentMoniker": "BarberShop.Domain\\Interfaces\\IBarberRepository.cs",
+              "ToolTip": "D:\\Proyectos\\API\\BarberShop\\BarberShop.Domain\\Interfaces\\IBarberRepository.cs",
+              "RelativeToolTip": "BarberShop.Domain\\Interfaces\\IBarberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:58:42.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

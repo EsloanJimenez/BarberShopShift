@@ -1,0 +1,11 @@
+D:\Proyectos\API\BarberShop\BarberShop.Domain\bin\Debug\net8.0\BarberShop.Domain.deps.json
+D:\Proyectos\API\BarberShop\BarberShop.Domain\bin\Debug\net8.0\BarberShop.Domain.dll
+D:\Proyectos\API\BarberShop\BarberShop.Domain\bin\Debug\net8.0\BarberShop.Domain.pdb
+D:\Proyectos\API\BarberShop\BarberShop.Domain\obj\Debug\net8.0\BarberShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\API\BarberShop\BarberShop.Domain\obj\Debug\net8.0\BarberShop.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\API\BarberShop\BarberShop.Domain\obj\Debug\net8.0\BarberShop.Domain.AssemblyInfo.cs
+D:\Proyectos\API\BarberShop\BarberShop.Domain\obj\Debug\net8.0\BarberShop.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\API\BarberShop\BarberShop.Domain\obj\Debug\net8.0\BarberShop.Domain.dll
+D:\Proyectos\API\BarberShop\BarberShop.Domain\obj\Debug\net8.0\refint\BarberShop.Domain.dll
+D:\Proyectos\API\BarberShop\BarberShop.Domain\obj\Debug\net8.0\BarberShop.Domain.pdb
+D:\Proyectos\API\BarberShop\BarberShop.Domain\obj\Debug\net8.0\ref\BarberShop.Domain.dll

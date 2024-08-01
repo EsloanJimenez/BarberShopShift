@@ -1,0 +1,17 @@
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\bin\Debug\net8.0\BarberShop.Infrastructure.deps.json
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\bin\Debug\net8.0\BarberShop.Infrastructure.runtimeconfig.json
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\bin\Debug\net8.0\BarberShop.Infrastructure.dll
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\bin\Debug\net8.0\BarberShop.Infrastructure.pdb
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\bin\Debug\net8.0\BarberShop.Domain.dll
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\bin\Debug\net8.0\BarberShop.Domain.pdb
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberShop.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberShop.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberShop.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberSh.0B04D891.Up2Date
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberShop.Infrastructure.dll
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\refint\BarberShop.Infrastructure.dll
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberShop.Infrastructure.pdb
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\BarberShop.Infrastructure.genruntimeconfig.cache
+D:\Proyectos\API\BarberShop\BarberShop.Infrastructure\obj\Debug\net8.0\ref\BarberShop.Infrastructure.dll
